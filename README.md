@@ -2,6 +2,7 @@
 Create a simple snake game. The snake game build with browser based and responsive for different mobile screens (phone+tablet). Implement with html, css and Javascript using pixi.js
 ## Help Line:
 http://www.pixijs.com/
+##### snake(Video Game)
 https://en.wikipedia.org/wiki/Snake_(video_game)
 ## Requirements:
   Proficient understanding of web markup, including HTML5 and CSS3
